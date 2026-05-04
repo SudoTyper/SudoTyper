@@ -1,4 +1,5 @@
-baseURL = "http://localhost:1313/"
+#baseURL = "http://localhost:1313/"
+baseURL = "https://sudotyper.github.io/SudoTyper/"
 languageCode = "zh-cn"
 title = "Sudotyper's Blog"
 theme = "hugo-theme-stack"
