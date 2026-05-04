@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Sudotyper's Blog</title><link>http://localhost:1313/page/</link><description>Recent content in Pages on Sudotyper's Blog</description><generator>Hugo</generator><language>zh-cn</language><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml"/><item><title>关于</title><link>http://localhost:1313/page/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/page/about/</guid><description>&lt;h1 id="我是谁"&gt;我是谁？&lt;/h1&gt;
+&lt;p&gt;Hey，你好！我是 Sudotyper，一个健谈的孤独者，一个有“代码阅读障碍”的码农，和一个渴望在更大舞台上耍贱的表演型人格。&lt;/p&gt;
+&lt;p&gt;这个网站，是我用来抒发旺盛表达欲的地方，也是我记录这段时间学习成果和反思的地方。如果你对我的某些观点有不同意见，欢迎在评论区告诉我——我很期待看到不一样的声音。&lt;/p&gt;
+&lt;p&gt;另外，通过这个网站，我也能更量化地记录自己的学习过程，更直观地看到时间都花在了哪里。虽然目前这个网站没有任何内容，慢慢更新啦。&lt;/p&gt;
+&lt;p&gt;最后，希望大家一切都好。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id="更新日志"&gt;更新日志&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;5/4/2026 blog建立，更新关于自己，发布第一条blog&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id="待办事项"&gt;待办事项&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 修复linuxdo和telegram的图标，在dark/light mode下颜色需要不一样&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 加入comment功能&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 放弃使用framework，自己customize网站。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id="鸣谢"&gt;鸣谢&lt;/h1&gt;
+&lt;p&gt;感谢&lt;a href="https://darksharpness.top/"&gt;DarkSharpness&lt;/a&gt; 的个人博客给了我启发，让我也开启了自己的博客之路。&lt;/p&gt;</description></item></channel></rss>
