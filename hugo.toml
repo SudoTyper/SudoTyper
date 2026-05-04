@@ -1,0 +1,7 @@
+baseURL = "http://localhost:1313/"
+languageCode = "zh-cn"
+title = "Sudotyper's Blog"
+theme = "hugo-theme-stack"
+
+[pagination]
+pagerSize = 5

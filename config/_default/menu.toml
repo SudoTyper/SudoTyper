@@ -1,0 +1,31 @@
+[[social]]
+identifier = "github"
+name       = "GitHub"
+url        = "https://github.com/SudoTyper"
+
+[social.params]
+icon = "brand-github"
+
+[[social]]
+identifier = "telegram"
+name       = "Telegram"
+url        = "https://t.me/SudoTyper"
+
+[social.params]
+icon = "telegram"
+
+[[social]]
+identifier = "linuxdo"
+name       = "LinuxDo"
+url        = "https://linux.do/u/sudotyper/summary"
+
+[social.params]
+icon = "linuxdo"
+
+[[main]]
+name = "关于"
+url = "/page/about"
+weight = 50
+
+[main.params]
+icon = "user"
